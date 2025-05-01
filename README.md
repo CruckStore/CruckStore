@@ -81,7 +81,7 @@
 </table>
 
 <div align="center">
-    <img width="300em" src="https://camo.githubusercontent.com/91aead7deeacce61e78b03bbd73abfb69886d4a93cbe4b7676fa476466382c60/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273" alt="GitHub Streak" />
+  <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year" alt="WakaTime Stats for Gtol" />
 </div>
 <table align="center">
   <tr>
