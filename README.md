@@ -14,7 +14,7 @@
 </a>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
-<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a></p>
+<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a> (in dev...)</p>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
