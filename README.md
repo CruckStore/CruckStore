@@ -38,6 +38,7 @@
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
 
+<div>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
