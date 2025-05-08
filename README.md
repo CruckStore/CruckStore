@@ -28,12 +28,12 @@
 <br>
 
 <span><b>💞️ We're working for:</b></span>
-  - fivelink.lol <i>(Bio Website for FiveM Community<i>
-  - Cruck Store <i>(FiveM Store)<i>
-  - Quasar Store (We Make Some Tuto Video for Him)
-  - NightFall FA <i>(Los Santos US French Server)<i>
-  - French PVP <i>(French PVP Server)<i>
-  - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
+  - fivelink.lol <i>(Bio Website for FiveM Community</i>
+  - Cruck Store <i>(FiveM Store)</i>
+  - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
+  - NightFall FA <i>(Los Santos US French Server)</i>
+  - French PVP <i>(French PVP Server)</i>
+  - The Last Colony <i>(Apocalypse MultiLanguage Server)</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
