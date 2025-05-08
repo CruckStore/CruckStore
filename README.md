@@ -83,7 +83,7 @@
 </table>
 
 <div align="center">
-  <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year" alt="WakaTime Stats for Gtol" />
+  <img width="350rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gtol&range=last_year&theme=dark" alt="WakaTime Stats for Gtol" />
 </div>
 <table align="center">
   <tr>
