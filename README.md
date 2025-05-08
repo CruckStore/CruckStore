@@ -28,7 +28,7 @@
 <br>
 
 <span><b>💞️ We're working for:</b></span>
-  - fivelink.lol <i>(Bio Website for FiveM Community</i>
+  - fivelink.lol <i>(Bio Website for FiveM Community)</i>
   - Cruck Store <i>(FiveM Store)</i>
   - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
   - NightFall FA <i>(Los Santos US French Server)</i>
