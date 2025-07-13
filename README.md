@@ -36,7 +36,9 @@
   - LRD Store <i>(FiveM Script Store)</i>
   - STG Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
-  - Reaplce Development <i>(FiveM Script Store)</i>
+  - Replace Development <i>(FiveM Script Store)</i>
+  - Redlight <i>Community Server</i>
+  - YorkHost <i>Hosting</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
