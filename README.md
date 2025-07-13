@@ -38,10 +38,10 @@
   - STG Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
   - Replace Development <i>(FiveM Script Store)</i>
-  - Redlight <i>Community Server</i>
-  - YorkHost <i>Hosting</i>
-  - FiveM Admin Community <i>Community Server</i>
-  - FiveM Resource Finder <i>FiveM Website/Community</i>
+  - Redlight <i>(Community Server)</i>
+  - YorkHost <i>(Hosting)</i>
+  - FiveM Admin Community <i>(Community Server)</i>
+  - FiveM Resource Finder <i>(FiveM Website/Community)</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
