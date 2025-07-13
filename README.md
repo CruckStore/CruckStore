@@ -39,9 +39,11 @@
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>Community Server</i>
   - YorkHost <i>Hosting</i>
+  - FiveM Admin Community <i>Community Server</i>
+  - FiveM Resource Finder <i>FiveM Website/Community</i>
 
 
-<h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
+<h3 align="left" style="text-decoration: underline;">What we I for Work? <i>(language & software for work)</i></h3>
 
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -65,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-<h3 align="left" style="text-decoration: underline;">What are our Stats? <i>(language we use most, number of commit, etc)</i></h3>
+<h3 align="left" style="text-decoration: underline;">What are my Stats? <i>(language we use most, number of commit, etc)</i></h3>
 
 <div>
 <table width="100%" align="center">
@@ -99,7 +101,7 @@
 </table>
 </div>
 
-<h3 align="left" style="text-decoration: underline;">Our Commit Line <i>(in animation)</i></h3>
+<h3 align="left" style="text-decoration: underline;">My Commit Line <i>(in animation)</i></h3>
 
 <div align="center">
   <img src="https://ssr-contributions-svg.vercel.app/_/cruckstore?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true">
