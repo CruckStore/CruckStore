@@ -66,6 +66,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=windsurf" height="40" alt="mongodb logo"  />
 </div>
 
 <h3 align="left" style="text-decoration: underline;">What are my Stats? <i>(language we use most, number of commit, etc)</i></h3>
