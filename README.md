@@ -66,7 +66,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+    <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse logo"  />
+    <img width="12" />
+
     <img src="https://skillicons.dev/icons?i=windsurf" height="40" alt="mongodb logo"  />
 
 </div>
