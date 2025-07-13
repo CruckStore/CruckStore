@@ -28,12 +28,15 @@
 
 <span><b>💞️ Where did I work?</b></span>
   - fivelink.lol <i>(Bio Website for FiveM Community)</i>
-  - Cruck Store <i>(FiveM Store)</i>
-  - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
-  - NightFall FA <i>(Los Santos US French Server)</i>
-  - French PVP <i>(French PVP Server)</i>
-  - The Last Colony <i>(Apocalypse MultiLanguage Server)</i>
-  - LRD Store <i>(We Make Script and Communication for Him)
+  - Cruck Store <i>(FiveM Script Store)</i>
+  - Quasar Store <i>(FiveM Script Store)</i>
+  - NightFall FA <i>(FiveM RP Server)</i>
+  - French PVP <i>(FiveM PVP Server)</i>
+  - The Last Colony <i>(FiveM Apocalypse Server)</i>
+  - LRD Store <i>(FiveM Script Store)</i>
+  - STG Store <i>(FiveM Script Store)</i>
+  - CodeM <i>(FiveM Script Store)</i>
+  - Reaplce Development <i>(FiveM Script Store)</i>
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
