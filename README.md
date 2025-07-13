@@ -13,21 +13,20 @@
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.cruck.store" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
-<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a> (in dev...)</p>
+<h3 align="left" style="text-decoration: underline;"><u>FiveLink WebSite:</u></h3>
+<p><a href="https://fivelink.lol" target="_blank">WebSite - FiveLink</a> (in BETA...)</p>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
-<p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>FiveLink Discord:</u></h3>
+<p><a href="https://discord.gg/fivelink" target="_blank">Discord - FiveLink</a></p>
 
 
-<span><b>💞️ We're looking for:</b></span>
+<span><b>💞️ Where do I need help (hiring)?</b></span>
   - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i>
+  - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
   - <del>Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i><del>
-  - <del>FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><del><img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-
 <br>
 
-<span><b>💞️ We're working for:</b></span>
+<span><b>💞️ Where did I work?</b></span>
   - fivelink.lol <i>(Bio Website for FiveM Community)</i>
   - Cruck Store <i>(FiveM Store)</i>
   - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
