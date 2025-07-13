@@ -34,6 +34,7 @@
   - NightFall FA <i>(Los Santos US French Server)</i>
   - French PVP <i>(French PVP Server)</i>
   - The Last Colony <i>(Apocalypse MultiLanguage Server)</i>
+  - LRD Store <i>(We Make Script and Communication for Him)
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
