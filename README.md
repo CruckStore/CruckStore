@@ -36,10 +36,11 @@
   - The Last Colony <i>(FiveM Apocalypse Server)</i>
   - LRD Store <i>(FiveM Script Store)</i>
   - STG Store <i>(FiveM Script Store)</i>
+  - Eye Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>(Community Server)</i>
-  - YorkHost <i>(Hosting)</i>
+  - YorkHost <i>(French Hosting)</i>
   - FiveM Admin Community <i>(Community Server)</i>
   - FiveM Resource Finder <i>(FiveM Website/Community)</i>
 
