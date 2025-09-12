@@ -29,6 +29,7 @@
 
 <span><b>💞️ Where did I work?</b></span>
   - fivelink.lol <i>(Bio Website for FiveM Community)</i>
+  - Edicted <i>(Academy Website)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
   - Quasar Store <i>(FiveM Script Store)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
