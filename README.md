@@ -31,6 +31,7 @@
   - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website for FiveM Community)</i>
   - Edicted <i>(Academy Website)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
+  - Vaste <i>(Voxel Game Service)
   - Quasar Store <i>(FiveM Script Store)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
