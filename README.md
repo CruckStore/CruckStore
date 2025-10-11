@@ -13,8 +13,8 @@
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.fivelink.lol" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>fivelink.lol WebSite:</u></h3>
-<p><a href="https://fivelink.lol" target="_blank">WebSite - fivelink.lol</a> (in BETA...)</p>
+<h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Website:</u></h3>
+<p><a href="https://fivelink.lol" target="_blank">Website - fivelink.lol</a> (in BETA...)</p>
 
 <h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Discord:</u></h3>
 <p><a href="https://discord.gg/fivelink" target="_blank">Discord - fivelink.lol</a></p>
