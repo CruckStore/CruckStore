@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm @Gtol – creator of Fivelink & CruckStore</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm @Gtol – creator of <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a></h1>
 
 <p align="left"> 
   <a href="https://discord.gg/fivelink" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
@@ -13,22 +13,22 @@
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.fivelink.lol" align="right"/>
 </a>
 
-<h3 align="left" style="text-decoration: underline;"><u>FiveLink WebSite:</u></h3>
-<p><a href="https://fivelink.lol" target="_blank">WebSite - FiveLink</a> (in BETA...)</p>
+<h3 align="left" style="text-decoration: underline;"><u>fivelink.lol WebSite:</u></h3>
+<p><a href="https://fivelink.lol" target="_blank">WebSite - fivelink.lol</a> (in BETA...)</p>
 
-<h3 align="left" style="text-decoration: underline;"><u>FiveLink Discord:</u></h3>
-<p><a href="https://discord.gg/fivelink" target="_blank">Discord - FiveLink</a></p>
+<h3 align="left" style="text-decoration: underline;"><u>fivelink.lol Discord:</u></h3>
+<p><a href="https://discord.gg/fivelink" target="_blank">Discord - fivelink.lol</a></p>
 
 
 <span><b>💞️ Where do I need help (hiring)?</b></span>
   - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i>
   - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><img align="right" src="https://github.com/gtolontop/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-  - Website Security Tester <i>(For test fivelink security please)</i>
+  - Website Security Tester <i>(For test fivelink.lol security please)</i>
   - <del>Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i><del>
 <br>
 
 <span><b>💞️ Where did I work?</b></span>
-  - fivelink.lol <i>(Bio Website for FiveM Community)</i>
+  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website for FiveM Community)</i>
   - Edicted <i>(Academy Website)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
   - Quasar Store <i>(FiveM Script Store)</i>
