@@ -40,6 +40,7 @@
   - STG Store <i>(FiveM Script Store)</i>
   - Eye Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
+  - ESX Framework <i>(FiveM Roleplay Framework)
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>(Community Server)</i>
   - YorkHost <i>(French Hosting)</i>
