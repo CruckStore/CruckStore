@@ -115,10 +115,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
-
-
-
-
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gtolontop&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
 <style>
