@@ -31,7 +31,7 @@
   - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website for FiveM Community)</i>
   - Edicted <i>(Academy Website)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
-  - Vaste <i>(Voxel Game Service)
+  - Vaste <i>(Voxel Game Service)</i>
   - Quasar Store <i>(FiveM Script Store)</i>
   - NightFall FA <i>(FiveM RP Server)</i>
   - French PVP <i>(FiveM PVP Server)</i>
@@ -40,7 +40,7 @@
   - STG Store <i>(FiveM Script Store)</i>
   - Eye Store <i>(FiveM Script Store)</i>
   - CodeM <i>(FiveM Script Store)</i>
-  - ESX Framework <i>(FiveM Roleplay Framework)
+  - ESX Framework <i>(FiveM Roleplay Framework)</i>
   - Replace Development <i>(FiveM Script Store)</i>
   - Redlight <i>(Community Server)</i>
   - YorkHost <i>(French Hosting)</i>
