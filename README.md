@@ -28,7 +28,7 @@
 <br>
 
 <span><b>💞️ Where did I work?</b></span>
-  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Bio Website for FiveM Community)</i>
+  - <a href="https://fivelink.lol" rel="nofollow">fivelink.lol</a> <i>(Best Bio Website for put your link/portfolio or just for have a cool profile)</i>
   - Edicted <i>(Academy Website)</i>
   - Cruck Store <i>(FiveM Script Store)</i>
   - Vaste <i>(Voxel Game Service)</i>
